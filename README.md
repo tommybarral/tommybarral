@@ -3,7 +3,7 @@
 You will find there all projets that i did based on SwiftUI and Flutter.
 Some of projets look basics because there are simple training based on the Framework; while others are real projets.
 
-I thank you for giving a stars / like.
+I thank you for giving a star / like.
 
 Vous trouverez ici tous les projets que j'ai réalisé basé sur SwiftUI et Flutter.
 Certains projets sont assez basiques puisque ce sont des entrainements dans le framework correspondant; quant à d'autres, ce sont de réels projets.
